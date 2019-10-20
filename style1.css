@@ -1,9 +1,21 @@
 
- 
-.right-nav li{
-    font-size:25px;
+body {
+    color: blue;
+  } 
+a {
+    font-size:30px;
+    color:green
     }
-
+h1 {
+    color: greenyellow
+}
+article {
+        background-color: rgb(191, 196, 147);
+        width: 200px;
+        border: 15px solid green;
+        padding: 30px;
+        margin: 20px;
+      }
 header {
   text-align: right;
   background-color: rgb(114, 118, 177);
@@ -47,12 +59,19 @@ header {
 }
 p {
     font-family: sans-serif;
-    color: orange;
+    color:rosybrown;
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 .wrapper {
   width: 900px;
   font-size: 1.6em;
   margin: 0 auto;
   background-color: rgb(93, 129, 151);
+}
+body {
+    color:rosybrown;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
